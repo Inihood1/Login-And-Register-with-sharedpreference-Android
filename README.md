@@ -9,7 +9,6 @@ Screenshots
   <img src="https://user-images.githubusercontent.com/15949588/65040127-965d9200-d94b-11e9-82d8-e4ff621730ef.png" width="200" />
 </p>
 
-Click the link to downlaod the apk as .zip
+Click the link to downlaod the apk file as .zip
 https://github.com/Inihood1/LoginAndRegister/files/3621139/IniHoodLoginAndregister.zip
 
-<a href="data:application/octet-stream,DATA" download="https://github.com/Inihood1/LoginAndRegister/files/3621139/IniHoodLoginAndregister.zip">TITLE</a>
