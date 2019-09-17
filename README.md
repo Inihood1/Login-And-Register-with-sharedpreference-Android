@@ -12,4 +12,4 @@ Screenshots
 Click the link to downlaod the apk as .zip
 https://github.com/Inihood1/LoginAndRegister/files/3621139/IniHoodLoginAndregister.zip
 
-<a href="data:application/octet-stream,DATA" download="FILENAME">TITLE</a>
+<a href="data:application/octet-stream,DATA" download="https://github.com/Inihood1/LoginAndRegister/files/3621139/IniHoodLoginAndregister.zip">TITLE</a>
